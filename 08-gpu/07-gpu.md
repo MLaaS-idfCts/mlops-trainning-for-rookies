@@ -15,7 +15,7 @@ apart from the must-know knowledge explicitly written in the section.
    
 2. ML <3 GPUs
     1. https://www.youtube.com/watch?v=6stDhEA0wFQ
-    2. https://research.fb.com/wp-content/uploads/2020/08/PyTorch-Distributed-Experiences-on-Accelerating-Data-Parallel-Training.pdf
+    2. https://research.facebook.com/file/2764605503837889/PyTorch-Distributed-Experiences-on-Accelerating-Data-Parallel-Training.pdf
     3. [Pytorch parallel](https://pytorch.org/tutorials/beginner/blitz/data_parallel_tutorial.html)
     4. [Rapids](https://towardsdatascience.com/how-to-use-gpus-for-machine-learning-with-the-new-nvidia-data-science-workstation-64ef37460fa0)
 
