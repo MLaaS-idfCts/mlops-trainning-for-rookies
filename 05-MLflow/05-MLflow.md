@@ -7,10 +7,9 @@ By the end of this section, you will learn how to our model tracking tool of cho
 2. Deploy an MLflow server locally.
 
 ### Key Concepts:
-- project
+- tracking
+- projects
 - models
-- mlflow-server
-- mlflow-client
 
 ### Final Exercise:
-Use our MLflow server/your local one, try some basic stuff to get familiar with the UI, don't worry, in the next chapter you'll get more experience with MLflow :D
+Use our MLflow server/your local one, add tracking to your previous work.

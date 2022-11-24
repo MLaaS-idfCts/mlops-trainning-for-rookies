@@ -8,8 +8,8 @@ During this section you are meant to understand the concept of MLops, what it is
 3. Search what tools we have in the TS, don't need to know how they work, just what they do in a general sense, you'll get a deep dive into them in the future.
 ### Key Concepts:
 - Main workflow of ML
-- What we have currently provide in the cloud
-- What's the ideal way to work.
+- What we have currently provided in the cloud
+- What's the ideal workflow for a data scientist to work, what role do we fill in their workflow as a team.
 
 ### Final Exercise:
 Choose a subject within the MLops world, and give us a lecture about it, the lecture should be about 10-15 minutes long, and hopefully contain good memes.
