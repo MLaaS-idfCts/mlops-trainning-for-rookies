@@ -2,7 +2,7 @@
 ## The most important concept when creating a product
 ### [link](https://www.youtube.com/watch?v=jAP5gbgWom0&ab_channel=RealTimewithBillMaher)
 
-## Final Exercise:
+## Rolling Exercise:
 Those are the Coronavirus days, the markets are failing, and the most important question is
 `WIll a simple solider, a pawn, be able to afford to buy the food of the gods, AVOCADO?`
 During your training process, you will create a full-stack app that will solve this question.
