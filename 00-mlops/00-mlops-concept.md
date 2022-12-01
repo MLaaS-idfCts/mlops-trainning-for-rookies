@@ -10,6 +10,3 @@ During this section you are meant to understand the concept of MLops, what it is
 - Main workflow of ML
 - What we have currently provided in the cloud
 - What's the ideal workflow for a data scientist to work, what role do we fill in their workflow as a team.
-
-### Final Exercise:
-Choose a subject within the MLops world, and give us a lecture about it, the lecture should be about 10-15 minutes long, and hopefully contain good memes.
