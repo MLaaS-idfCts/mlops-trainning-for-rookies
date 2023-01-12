@@ -15,7 +15,7 @@ In the final exercise you will gain practical experience.
     2. Stage 2: do only [Live Debugging Node.js with Docker and Visual Studio Code](https://training.play-with-docker.com/nodejs-live-debugging/)
     3. Don't do stage 3
 4. Read about Configure networking, Manage application data in https://docs.docker.com/network/
-
+5. https://hamk-sysadmin-docker.github.io/exercises/ - Do everything up to 2.4
 ### Key Concepts:
 -   container
 -   security groups
