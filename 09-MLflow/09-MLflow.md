@@ -12,4 +12,5 @@ By the end of this section, you will learn how to our model tracking tool of cho
 - models
 
 ### Final Exercise:
-Use our MLflow server/your local one, add tracking to your previous work.
+- Use our MLflow server/your local one, add tracking to your previous work.
+- Read about Nginx and then sit with one of the team members about the architecture.
