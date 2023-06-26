@@ -8,6 +8,7 @@ By the end of this section, you will learn how to our model tracking tool of cho
 
 ### Key Concepts:
 - tracking
+- model registry
 - projects
 - models
 
