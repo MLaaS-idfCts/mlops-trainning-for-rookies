@@ -32,5 +32,4 @@ apart from the must-know knowledge explicitly written in the section.
 - Rapids
 
 ### Final Exercise:
-1. Try to use parallel training with a simple CNN
-2. Oral Exam
+1. Oral Exam
