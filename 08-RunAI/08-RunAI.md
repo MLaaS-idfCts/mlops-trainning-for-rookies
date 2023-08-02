@@ -3,6 +3,7 @@
 
 ### TODO:
 1. Read the [RunAI docs](https://docs.run.ai/)
+2. Ask your trainer about some knowledges to read in the environment
 
 ### Key Concepts:
 -   runai administraion.
