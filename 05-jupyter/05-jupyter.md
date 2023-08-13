@@ -12,7 +12,7 @@ Shall you aim for the moon but you were too drank, jupyter has enough (also enou
     4. Run it. works? Good.
 
 
-2  ###### jupyterlab
+2  ###### jupyterlab  
     1. Read what jupyterlab is, what are it's benefits.
     2. Add jupyterlab and any jupyterlab extension you'd like to your image from before, make sure you can explain why you think this extension is useful.
 
