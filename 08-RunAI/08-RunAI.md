@@ -15,5 +15,4 @@
 -   over-quotas
 
 ### Final Exercise:
-Create a policy to prevent people from changing the jupyter flag in the interactive form.
-Create a template for users to create a notebook.
+Oral exam
