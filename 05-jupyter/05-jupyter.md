@@ -15,6 +15,7 @@ Shall you aim for the moon but you were too drank, jupyter has enough (also enou
 2. ###### jupyterlab  
     1. Read what jupyterlab is, what are it's benefits.
     2. Add jupyterlab and any jupyterlab extension you'd like to your image from before, make sure you can explain why you think this extension is useful.
+    3. Configure timeout that turns off the notebook after 5 minutes of it being idle
 
 ### Key Concepts:
 - jupyterlab
