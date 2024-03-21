@@ -1,5 +1,4 @@
 # Docker
-##### ETC: 4 days
 By the end of this section you will become a docker pro, know what they are, 
 what is the difference between a container and vm, and how do they work. 
 In the final exercise you will gain practical experience.
@@ -16,6 +15,7 @@ In the final exercise you will gain practical experience.
     3. Don't do stage 3
 4. Read about Configure networking, Manage application data in https://docs.docker.com/network/
 5. https://hamk-sysadmin-docker.github.io/exercises/ - Do everything up to 2.4
+
 ### Key Concepts:
 -   container
 -   security groups
@@ -29,5 +29,5 @@ In the final exercise you will gain practical experience.
 -   docker alternatives
 
 ### Final Exercise:
-Create a Dockerfile that packs your code from the previous sections.<br>
-Give an example for a use case where VM is more suitable than a container.
+- Create a Dockerfile that packs your code of the Fastapi from the previous section.
+- Give an example for a use case where VM is more suitable than a container.

@@ -30,6 +30,8 @@ apart from the must-know knowledge explicitly written in the section.
 - Nvidia Grid
 - Horovod
 - Rapids
+- GPGPU
+- NGC
 
 ### Final Exercise:
 1. Oral Exam
