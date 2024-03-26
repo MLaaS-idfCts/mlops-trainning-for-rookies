@@ -34,3 +34,4 @@ apart from the must-know knowledge explicitly written in the section.
 
 ### Final Exercise:
 1. Oral Exam
+![WhatsApp Image 2024-03-26 at 16 53 24](https://github.com/MLaaS-idfCts/mlops-trainning-for-rookies/assets/48046918/a7b6c486-2255-43b4-a936-1245543a0097)
