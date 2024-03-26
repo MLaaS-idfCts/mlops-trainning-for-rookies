@@ -1,5 +1,4 @@
 # Jupyter
-##### ETC: 1 day
 
 Shall you aim for the moon but you were too drank, jupyter has enough (also enough resources, and you know, that sweet ml blockchain GPUs..)<br>
 

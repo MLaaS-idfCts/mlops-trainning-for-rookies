@@ -1,5 +1,4 @@
 # RunAI
-##### ETC: 5 days
 
 ### TODO:
 1. Read the [RunAI docs](https://docs.run.ai/)

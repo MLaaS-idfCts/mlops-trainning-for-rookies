@@ -1,6 +1,5 @@
 # MLOps
 During this section you are meant to understand the concept of MLops, what it is, and what we aim to do as a team.
-##### ETC: 2 days
 
 ### TODO:
 1. [Google what's MLops](https://letmegooglethat.com/?q=mlops)
