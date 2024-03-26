@@ -23,3 +23,4 @@ Shall you aim for the moon but you were too drank, jupyter has enough (also enou
 
 ### Final Exercise:
 You have suffered enough, take a 5.
+![WhatsApp Image 2024-03-24 at 09 34 00](https://github.com/MLaaS-idfCts/mlops-trainning-for-rookies/assets/48046918/ae475f39-39dc-42bc-91c1-9c2a9c9c65cb)
