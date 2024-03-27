@@ -17,6 +17,9 @@
 ### Key Concepts:
 - Jupyterlab
 - Notebooks
+- Kernel
+- IPython
+- Jovyan
 - Pain
 
 ### Final Exercise:

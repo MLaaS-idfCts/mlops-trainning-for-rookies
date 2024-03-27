@@ -8,6 +8,7 @@ During this section you are meant to understand the concept of MLops, what it is
 
 ### Key Concepts:
 - Main workflow of ML
+- Devops vs Mlops
 - What we have currently provided in the cloud?
 - What parts of the workflow we didn't provide? Which tools can be used to fufill their purpose?
 - What's the ideal workflow for a data scientist to work, what role do we fill in their workflow as a team?
