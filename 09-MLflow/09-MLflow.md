@@ -6,10 +6,10 @@ By the end of this section, you will learn how to our model tracking tool of cho
 2. Deploy an MLflow server locally.
 
 ### Key Concepts:
-- tracking
-- model registry
-- projects
-- models
+- Tracking
+- Model Registry
+- Projects
+- Models
 
 ### Final Exercise:
 - Use our MLflow server/your local one, add tracking to your previous work.

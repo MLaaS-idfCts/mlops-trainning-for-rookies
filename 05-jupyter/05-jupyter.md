@@ -1,7 +1,5 @@
 # Jupyter
 
-Shall you aim for the moon but you were too drank, jupyter has enough (also enough resources, and you know, that sweet ml blockchain GPUs..)<br>
-
 ### TODO:
 1. ###### jupyter notebook
     1. Read the first paragraph (JupyterLab 1.0...) in [this site](https://jupyter.org/index.html) and try jupyterlab. 
@@ -17,9 +15,9 @@ Shall you aim for the moon but you were too drank, jupyter has enough (also enou
     3. Configure timeout that turns off the notebook after 5 minutes of it being idle
 
 ### Key Concepts:
-- jupyterlab
-- notebooks
-- pain
+- Jupyterlab
+- Notebooks
+- Pain
 
 ### Final Exercise:
 You have suffered enough, take a 5.

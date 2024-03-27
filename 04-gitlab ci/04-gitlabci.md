@@ -5,19 +5,17 @@
 - [complex pipelines](https://docs.gitlab.com/ee/ci/quick_start/tutorial.html)
 
 ### Key Concepts:
-- configuration file
-- runner
-- job
-- stage
-- pipeline
-- stage
-- pipeline
-- artifacts
-- environments
-- dependecies
+- Configuration File
+- Runner
+- Job
+- Stage
+- Pipeline
+- Artifacts
+- Environments
+- Dependecies
 
 ### Final Exercise:
-Write a CICD pipeline using gitlab ci that:
-  - Builds the image from the docker file you wrote. (*clue*: Use a build config).
-  - Push the image to quay
-  - Deploy the application to opwnshift.
+Write a CICD pipeline using Gitlab CI that:
+  - Builds the image from the docker file you wrote. (*Clue*: Use a build config).
+  - Push the image to Quay
+  - Deploy the application to Openshift.

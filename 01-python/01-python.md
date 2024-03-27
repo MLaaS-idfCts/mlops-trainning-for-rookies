@@ -1,10 +1,4 @@
 # Python
-By the twilight of this section,
-yours would be the Pythonic insight and capacity to be christened unto the ranks
-of the Python developers.
-Beware your pride of such titles,
-as adequate they may be, there is a long and arduous journey yet ahead of you,
-for the fruits of the language are manyfold, and in your hands lay but a taste.
 
 ### TODO:
 1. #### Basic Python
@@ -13,6 +7,7 @@ for the fruits of the language are manyfold, and in your hands lay but a taste.
     3. [PEP8](https://realpython.com/python-pep8/)
     4. [google pyguide](https://google.github.io/styleguide/pyguide.html)
     5. [OOP and python](https://realpython.com/inheritance-composition-python/#whats-inheritance)
+    6. [Build cli - click](https://pymbook.readthedocs.io/en/latest/click.html)
 
 2. #### Regex
     1. https://www.w3schools.com/python/python_regex.asp
@@ -45,4 +40,6 @@ for the fruits of the language are manyfold, and in your hands lay but a taste.
 - Do the w3schools [python quiz](https://www.w3schools.com/python/python_quiz.asp)
 - Let your instructor choose for you a random 10 exercises from [w3resource](https://www.w3resource.com/python-exercises/)
 - Write a simple Fastapi server. Use gitlab to manage the code.
+  - Make an API that gets a GET request with a number (for example localhost:8000/api?number=3).
+    The API will return the first "number" of Splunk indexes. You can get the indexes from the Portal API.
 - Write a song that glorifies Python. If you lack basic creativity, it can be a Haiku.
