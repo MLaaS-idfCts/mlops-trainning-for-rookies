@@ -1,7 +1,4 @@
 # Jupyter
-##### ETC: 1 day
-
-Shall you aim for the moon but you were too drank, jupyter has enough (also enough resources, and you know, that sweet ml blockchain GPUs..)<br>
 
 ### TODO:
 1. ###### jupyter notebook
@@ -18,9 +15,13 @@ Shall you aim for the moon but you were too drank, jupyter has enough (also enou
     3. Configure timeout that turns off the notebook after 5 minutes of it being idle
 
 ### Key Concepts:
-- jupyterlab
-- notebooks
-- pain
+- Jupyterlab
+- Notebooks
+- Kernel
+- IPython
+- Jovyan
+- Pain
 
 ### Final Exercise:
 You have suffered enough, take a 5.
+![WhatsApp Image 2024-03-24 at 09 34 00](https://github.com/MLaaS-idfCts/mlops-trainning-for-rookies/assets/48046918/ae475f39-39dc-42bc-91c1-9c2a9c9c65cb)
