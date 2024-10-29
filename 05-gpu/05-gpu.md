@@ -23,10 +23,7 @@
 - DGX
 - NVLink
 - VGPU
-- Nvidia Grid
-- Horovod
 - Rapids
-- GPGPU
 - NGC
 
 ### Final Exercise:
