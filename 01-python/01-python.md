@@ -40,6 +40,6 @@
 - Do the w3schools [python quiz](https://www.w3schools.com/python/python_quiz.asp)
 - Let your instructor choose for you a random 10 exercises from [w3resource](https://www.w3resource.com/python-exercises/)
 - Write a simple Fastapi server. Use gitlab to manage the code.
-  - Make an API that gets a GET request with a number (for example localhost:8000/api?number=3).
-    The API will return the first "number" of Splunk indexes. You can get the indexes from the Portal API.
+  - Make an API that gets a GET request with a amount (for example localhost:8000/api?amount=3).
+    The API will return the first X "amount" of Splunk indexes. You can get the indexes from the Portal API.
 - Write a song that glorifies Python. If you lack basic creativity, it can be a Haiku.
