@@ -1,9 +1,19 @@
 # RunAI
 
 ### TODO:
-1. Read the [RunAI docs](https://docs.run.ai/)
+1. Read the [RunAI docs](https://docs.run.ai/). Make sure you read the docs for the current version deployed in the TS.
+    - Interactive Jobs
+    - Training Jobs
+    - Inference
+    - Runai Schedualer
+    - Schedualing Strategies
+    - GPU Fractions
+    - Job Statues
+    - Workspaces
+    - Data sources
+    - Credentials
 2. Ask your trainer about some knowledges to read in the environment.
-3. Experiment with notebook, debugger and training jobs.
+3. Experiment with notebook, debugger and training jobs: create one of each type.
 
 ### Key Concepts:
 -   Runai administraion.
