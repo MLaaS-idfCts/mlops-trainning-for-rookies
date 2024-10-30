@@ -25,6 +25,7 @@
 - VGPU
 - Rapids
 - NGC
+- Shardin
 
 ### Final Exercise:
 1. Oral Exam
