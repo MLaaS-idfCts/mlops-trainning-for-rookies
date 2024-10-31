@@ -12,6 +12,7 @@
  - Query types
  - Model Repository and Storage
  - Types of model repos
+ - Data Types (FP32, INT8...)
 
 
 ### Final Exercise:
