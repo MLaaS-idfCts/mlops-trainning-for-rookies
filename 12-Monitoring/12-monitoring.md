@@ -2,6 +2,7 @@
 ### TODO:
 - What is monitoring and why is it important?
 - Grafana & Prometheus VS Splunk
+- Understand push VS pull minitoring architecture
 
 
 ### Key Concepts
